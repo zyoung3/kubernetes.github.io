@@ -54,6 +54,7 @@ single thing, typically by giving a short sequence of steps.
 * [Autoscaling the DNS Service in a Cluster](/docs/tasks/administer-cluster/dns-horizontal-autoscaling/)
 * [Safely Draining a Node while Respecting Application SLOs](/docs/tasks/administer-cluster/safely-drain-node/)
 * [Changing reclaim policy of a PersistentVolume](/docs/tasks/administer-cluster/change-pv-reclaim-policy/)
+* [Changing the default StorageClass](/docs/tasks/administer-cluster/change-default-storage-class/)
 
 #### Managing Stateful Applications
 
@@ -62,6 +63,9 @@ single thing, typically by giving a short sequence of steps.
 * [Deleting a StatefulSet](/docs/tasks/manage-stateful-set/deleting-a-statefulset/)
 * [Debugging a StatefulSet](/docs/tasks/manage-stateful-set/debugging-a-statefulset/)
 * [Force Deleting StatefulSet Pods](/docs/tasks/manage-stateful-set/delete-pods/)
+
+#### Managing Cluster Daemons
+* [Performing a Rolling Update on a DaemonSet](/docs/tasks/manage-daemon/update-daemon-set/)
 
 ### What's next
 
